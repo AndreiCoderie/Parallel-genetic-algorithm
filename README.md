@@ -1,0 +1,2 @@
+# Parallel-genetic-algorithm
+PThreads
